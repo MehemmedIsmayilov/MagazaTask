@@ -1,0 +1,15 @@
+C:\Users\Mehemmed\source\repos\TopdanSatis\TopdanSatis\bin\Debug\net6.0\TopdanSatis.exe
+C:\Users\Mehemmed\source\repos\TopdanSatis\TopdanSatis\bin\Debug\net6.0\TopdanSatis.deps.json
+C:\Users\Mehemmed\source\repos\TopdanSatis\TopdanSatis\bin\Debug\net6.0\TopdanSatis.runtimeconfig.json
+C:\Users\Mehemmed\source\repos\TopdanSatis\TopdanSatis\bin\Debug\net6.0\TopdanSatis.dll
+C:\Users\Mehemmed\source\repos\TopdanSatis\TopdanSatis\bin\Debug\net6.0\TopdanSatis.pdb
+C:\Users\Mehemmed\source\repos\TopdanSatis\TopdanSatis\obj\Debug\net6.0\TopdanSatis.csproj.AssemblyReference.cache
+C:\Users\Mehemmed\source\repos\TopdanSatis\TopdanSatis\obj\Debug\net6.0\TopdanSatis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehemmed\source\repos\TopdanSatis\TopdanSatis\obj\Debug\net6.0\TopdanSatis.AssemblyInfoInputs.cache
+C:\Users\Mehemmed\source\repos\TopdanSatis\TopdanSatis\obj\Debug\net6.0\TopdanSatis.AssemblyInfo.cs
+C:\Users\Mehemmed\source\repos\TopdanSatis\TopdanSatis\obj\Debug\net6.0\TopdanSatis.csproj.CoreCompileInputs.cache
+C:\Users\Mehemmed\source\repos\TopdanSatis\TopdanSatis\obj\Debug\net6.0\TopdanSatis.dll
+C:\Users\Mehemmed\source\repos\TopdanSatis\TopdanSatis\obj\Debug\net6.0\refint\TopdanSatis.dll
+C:\Users\Mehemmed\source\repos\TopdanSatis\TopdanSatis\obj\Debug\net6.0\TopdanSatis.pdb
+C:\Users\Mehemmed\source\repos\TopdanSatis\TopdanSatis\obj\Debug\net6.0\TopdanSatis.genruntimeconfig.cache
+C:\Users\Mehemmed\source\repos\TopdanSatis\TopdanSatis\obj\Debug\net6.0\ref\TopdanSatis.dll
